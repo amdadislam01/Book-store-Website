@@ -2,6 +2,12 @@
 
 A fully responsive e-commerce website for browsing and purchasing books online.
 
+#  Screenshot 
+
+<a href="https://ibb.co.com/LhqhzsHy">
+  <img src="https://i.ibb.co.com/LhqhzsHy/screencapture-amdadislam01-github-io-Book-store-Website-2025-05-06-23-11-42.png" alt="screencapture-amdadislam01-github-io-Book-store-Website-2025-05-06-23-11-42" border="0">
+</a>
+
 ##  Features ✨
 
 - 🛍️ Book browsing by categories
